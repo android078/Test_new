@@ -1,0 +1,15 @@
+D:\Git\Test\First_test\bin\Debug\net7.0\First_test.exe
+D:\Git\Test\First_test\bin\Debug\net7.0\First_test.deps.json
+D:\Git\Test\First_test\bin\Debug\net7.0\First_test.runtimeconfig.json
+D:\Git\Test\First_test\bin\Debug\net7.0\First_test.dll
+D:\Git\Test\First_test\bin\Debug\net7.0\First_test.pdb
+D:\Git\Test\First_test\obj\Debug\net7.0\First_test.csproj.AssemblyReference.cache
+D:\Git\Test\First_test\obj\Debug\net7.0\First_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Test\First_test\obj\Debug\net7.0\First_test.AssemblyInfoInputs.cache
+D:\Git\Test\First_test\obj\Debug\net7.0\First_test.AssemblyInfo.cs
+D:\Git\Test\First_test\obj\Debug\net7.0\First_test.csproj.CoreCompileInputs.cache
+D:\Git\Test\First_test\obj\Debug\net7.0\First_test.dll
+D:\Git\Test\First_test\obj\Debug\net7.0\refint\First_test.dll
+D:\Git\Test\First_test\obj\Debug\net7.0\First_test.pdb
+D:\Git\Test\First_test\obj\Debug\net7.0\First_test.genruntimeconfig.cache
+D:\Git\Test\First_test\obj\Debug\net7.0\ref\First_test.dll
